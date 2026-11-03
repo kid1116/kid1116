@@ -49,8 +49,6 @@ AI Agents · Agentic RL · Learning in Public
 | 优化约束 | Clipping、KL 正则、旧策略与参考策略 |
 | Agent 场景 | 多轮交互、工具调用与长程任务 |
 
-**从这里开始 → [GRPO 学习笔记：从优势函数到策略优化](https://github.com/kid1116/Learning-note/blob/main/GRPO学习笔记_从优势函数到策略优化.md)**
-
 ---
 
 <div align="center">
